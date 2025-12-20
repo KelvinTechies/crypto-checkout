@@ -4,8 +4,7 @@ A modern, production-ready crypto payment checkout experience built with Next.js
 
 ## 🚀 Live Demo
 
-- **Deployed URL**: [your-vercel-url.vercel.app]
-- **Repository**: https://github.com/KelvinTechies/crypto-checkout
+- **Repository**: https://github.com/KelvinTechies/crypto-checkout.git
 
 
 ## ✨ Features Implemented
@@ -28,7 +27,6 @@ A modern, production-ready crypto payment checkout experience built with Next.js
 - ✅ **Loading States** - Smooth transitions between form steps
 - ✅ **Error Recovery** - Clear error messages with guidance on how to fix issues
 
----
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +47,7 @@ A modern, production-ready crypto payment checkout experience built with Next.js
 ### Steps
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/crypto-checkout.git
+git clone https://github.com/KelvinTechies/crypto-checkout.git
 cd crypto-checkout
 
 # Install dependencies
